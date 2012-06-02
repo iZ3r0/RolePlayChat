@@ -9,4 +9,6 @@
 >
 >Copyright holders to material who seek it's removal, please file a DMCA notice to the admin.
 ## A Ninja's Notes ##
->I'm not a founder nor staff member of RPC. I, on my own terms, write complex coding for my character profiles. I'd like to keep >track of some of my work, so I'm posting all of the code here. This will include examples/snippets of some of the shit. Whoever >comes across this shit will probably be able to incorporate it into their own designs.
+>I'm not a founder nor staff member of RPC. I, on my own terms, write complex coding for my character profiles. I'd like to keep
+>track of some of my work, so I'm posting all of the code here. This will include examples/snippets of some of the shit. Whoever
+>comes across this shit will probably be able to incorporate it into their own designs.
