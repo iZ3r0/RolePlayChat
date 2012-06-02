@@ -1,4 +1,5 @@
 # RolePlayChat [HTML/CSS/JavaScript] #
+-http://roleplaychat.org/disclaimer.php
 ## DISCLAIMER ##
 >It is your responsibility to know the rules, such as copyright laws. It is assumed that if you enter this site you are 18 years >of age or older (depending on what the legal age is for viewing adult material as required by your local laws) and are not >offended by the material contained in this site or contained in sites to which it is linked. If you are in disagreement please >leave now.
 >
